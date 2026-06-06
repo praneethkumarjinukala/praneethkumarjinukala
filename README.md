@@ -17,98 +17,95 @@
 I'm a passionate **Embedded Systems Engineer** with **3+ years of experience** building reliable, high-performance firmware for aerospace, industrial IoT, and smart automation applications. Currently working at **Honeywell**, where I engineer mission-critical embedded solutions.
 
 - 🔧 I write firmware that powers real-world systems — from satellites to smart devices
-- 🌐 I've shipped production-grade IoT pipelines over MQTT and AWS IoT Core
-- 🔐 Security-minded engineer: Secure Boot, TLS, AES — firmware hardening is my thing
-- ⚡ Fun fact: I debug hardware with GDB, a logic analyzer, and endless cups of coffee
+- - 🌐 I've shipped production-grade IoT pipelines over MQTT and AWS IoT Core
+  - - 🔐 Security-minded engineer: Secure Boot, TLS, AES — firmware hardening is my thing
+    - - ⚡ Fun fact: I debug hardware with GDB, a logic analyzer, and endless cups of coffee
+     
+      - ---
 
----
+      ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+      ### 💻 Languages
+      ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+      ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+      ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+      ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-003B73?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+      ### 🖥️ Platforms & RTOS
+      ![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+      ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+      ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+      ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC84B?style=for-the-badge&logoColor=white)
 
-### 🖥️ Platforms & RTOS
-![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8DC63F?style=for-the-badge&logo=freertos&logoColor=white)
+      ### 📡 Protocols
+      ![SPI](https://img.shields.io/badge/SPI-FF6B35?style=for-the-badge)
+      ![I2C](https://img.shields.io/badge/I2C-FF6B35?style=for-the-badge)
+      ![UART](https://img.shields.io/badge/UART-4CAF50?style=for-the-badge)
+      ![CAN Bus](https://img.shields.io/badge/CAN_Bus-00BFFF?style=for-the-badge)
+      ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+      ![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D7?style=for-the-badge)
 
-### 📡 Protocols
-![SPI](https://img.shields.io/badge/SPI-FF6B35?style=for-the-badge&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-4A90D9?style=for-the-badge&logoColor=white)
-![UART](https://img.shields.io/badge/UART-6DB33F?style=for-the-badge&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN_Bus-FF6600?style=for-the-badge&logoColor=white)
-![CAN-FD](https://img.shields.io/badge/CAN--FD-FF8C00?style=for-the-badge&logoColor=white)
-![Ethernet](https://img.shields.io/badge/Ethernet-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP_IP-005C84?style=for-the-badge&logoColor=white)
+      ### 🔐 Security
+      ![Secure Boot](https://img.shields.io/badge/Secure_Boot-FF0000?style=for-the-badge)
+      ![TLS/SSL](https://img.shields.io/badge/TLS/SSL-009688?style=for-the-badge)
+      ![AES Encryption](https://img.shields.io/badge/AES_Encryption-212121?style=for-the-badge)
 
-### 🔐 Security
-![Secure Boot](https://img.shields.io/badge/Secure_Boot-D32F2F?style=for-the-badge&logoColor=white)
-![TLS/SSL](https://img.shields.io/badge/TLS_SSL-326CE5?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![AES](https://img.shields.io/badge/AES_Encryption-1A1A2E?style=for-the-badge&logoColor=white)
+      ### ☁️ Cloud & Tools
+      ![AWS IoT](https://img.shields.io/badge/AWS_IoT_Core-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+      ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+      ![GDB](https://img.shields.io/badge/GDB-FF6B35?style=for-the-badge)
+      ![Renode](https://img.shields.io/badge/Renode-0078D7?style=for-the-badge)
+      ![Wokwi](https://img.shields.io/badge/Wokwi-2EA44F?style=for-the-badge)
 
-### ☁️ Cloud & Tools
-![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil_MDK-0091BD?style=for-the-badge&logoColor=white)
-![JTAG](https://img.shields.io/badge/JTAG_SWD-555555?style=for-the-badge&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+      ---
 
----
+      ## 📂 Featured Projects
 
-## 🔗 Connect With Me
+      | Project | Description | Tech |
+      |---------|-------------|------|
+      | [🔧 motor-control-sim](https://github.com/praneethkumarjinukala/motor-control-sim) | Closed-loop DC motor speed control on STM32 with Wokwi live demo, Renode bare-metal firmware & RK4 host reference sim | C, STM32, FreeRTOS, Renode |
+      | [📡 cmis-i2c-emulator](https://github.com/praneethkumarjinukala/cmis-i2c-emulator) | CMIS 5.x I2C register map emulator on STM32 simulating 400G QSFP-DD module state machine | Python, STM32, I2C |
+      | [🏥 smart-healthcare-iot](https://github.com/praneethkumarjinukala/smart-healthcare-iot-python-bash) | Smart healthcare IoT pipeline with sensor data ingestion and cloud integration | Python, MQTT, Bash |
 
-<div align="center">
+      ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethkumarjinukala)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneethkumarjinukala)
+      ## 📊 GitHub Stats
 
-</div>
+      <div align="center">
 
----
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneethkumarjinukala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-## 📊 GitHub Stats
+      ![GitHub Streak](https://streak-stats.demolab.com?user=praneethkumarjinukala&theme=tokyonight&hide_border=true)
 
-<div align="center">
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethkumarjinukala&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=praneethkumarjinukala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praneethkumarjinukala&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+      </div>
 
-</div>
+      ---
 
-<div align="center">
+      ## 🏆 GitHub Trophies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethkumarjinukala&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+      <div align="center">
 
-</div>
+      ![Trophies](https://github-profile-trophy.vercel.app/?username=praneethkumarjinukala&theme=tokyonight&no-frame=true&row=1&column=6)
 
----
+      </div>
 
-## 🏆 GitHub Trophies
+      ---
 
-<div align="center">
+      ## 🔗 Connect With Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=praneethkumarjinukala&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+      <div align="center">
 
-</div>
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneethkumarjinukala)
+      [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneethkumarjinukala)
 
----
+      </div>
 
-<div align="center">
+      ---
 
-### 💬 Let's Connect & Build Something Amazing!
+      <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethkumarjinukala)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneethkumarjinukala)
+      *"Building firmware that bridges the gap between hardware and the cloud — one register at a time."* ⚡
 
-*"Building firmware that bridges the gap between hardware and the cloud — one register at a time."* ⚡
-
-</div>
+      </div>
