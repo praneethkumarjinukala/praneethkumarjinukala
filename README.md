@@ -65,7 +65,7 @@ I'm a passionate **Embedded Systems Engineer** with **3+ years of experience** b
       |---------|-------------|------|
       | [🔧 motor-control-sim](https://github.com/praneethkumarjinukala/motor-control-sim) | Closed-loop DC motor speed control on STM32 with Wokwi live demo, Renode bare-metal firmware & RK4 host reference sim | C, STM32, FreeRTOS, Renode |
       | [📡 cmis-i2c-emulator](https://github.com/praneethkumarjinukala/cmis-i2c-emulator) | CMIS 5.x I2C register map emulator on STM32 simulating 400G QSFP-DD module state machine | Python, STM32, I2C |
-      | [🏥 smart-healthcare-iot](https://github.com/praneethkumarjinukala/smart-healthcare-iot-python-bash) | Smart healthcare IoT pipeline with sensor data ingestion and cloud integration | Python, MQTT, Bash |
+      | [🏥 smart-healthcare-iot](https://github.com/praneethkumarjinukala/smart-healthcare-iot-python-bash) | Smart healthcare IoT pipeline: sensor telemetry, AWS IoT Core device shadow & automated alerting | Python, MQTT, Bash |
 
       ---
 
@@ -73,11 +73,15 @@ I'm a passionate **Embedded Systems Engineer** with **3+ years of experience** b
 
       <div align="center">
 
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneethkumarjinukala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+      <img src="https://streak-stats.demolab.com?user=praneethkumarjinukala&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-      ![GitHub Streak](https://streak-stats.demolab.com?user=praneethkumarjinukala&theme=tokyonight&hide_border=true)
+      <br/>
 
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethkumarjinukala&layout=compact&theme=tokyonight&hide_border=true)
+      <img src="https://github-readme-stats.vercel.app/api?username=praneethkumarjinukala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+      <br/>
+
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethkumarjinukala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
       </div>
 
@@ -87,7 +91,7 @@ I'm a passionate **Embedded Systems Engineer** with **3+ years of experience** b
 
       <div align="center">
 
-      ![Trophies](https://github-profile-trophy.vercel.app/?username=praneethkumarjinukala&theme=tokyonight&no-frame=true&row=1&column=6)
+      <img src="https://github-profile-trophy.vercel.app/?username=praneethkumarjinukala&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 
       </div>
 
