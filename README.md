@@ -83,7 +83,7 @@ I'm a passionate **Embedded Systems Engineer** with **3+ years of experience** b
 
       <div align="center">
 
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneethkumarjinukala)
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneeth-jinukala)
       [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneethkumarjinukala)
 
       </div>
