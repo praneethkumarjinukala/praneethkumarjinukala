@@ -73,25 +73,7 @@ I'm a passionate **Embedded Systems Engineer** with **3+ years of experience** b
 
       <div align="center">
 
-      <img src="https://streak-stats.demolab.com?user=praneethkumarjinukala&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-      <br/>
-
-      <img src="https://github-readme-stats.vercel.app/api?username=praneethkumarjinukala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-      <br/>
-
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethkumarjinukala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
-      </div>
-
-      ---
-
-      ## 🏆 GitHub Trophies
-
-      <div align="center">
-
-      <img src="https://github-profile-trophy.vercel.app/?username=praneethkumarjinukala&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+      <img src="https://streak-stats.demolab.com?user=praneethkumarjinukala&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
       </div>
 
